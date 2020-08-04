@@ -4,7 +4,7 @@
 
 
 
-<img src="octomala/octoheader.png" alt="banner that says Mala Deep, alongside a octocat for Mala">
+<img src="octoheader.png" alt="banner that says Mala Deep, alongside a octocat for Mala">
 
 
 
